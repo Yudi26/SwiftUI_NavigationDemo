@@ -1,5 +1,4 @@
 # SwiftUI Navigation
-Complex Navigation Demo using SwiftUI
 
 **Aim:**
 
